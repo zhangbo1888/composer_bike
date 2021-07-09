@@ -1,0 +1,10 @@
+{
+    "name": "zhangbo1888/composer_bike",
+    "description": "this is a test",
+    "type": "project",
+    "require": {
+        "phpoffice/phpexcel": "*"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
